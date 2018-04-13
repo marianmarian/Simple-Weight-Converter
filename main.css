@@ -1,0 +1,41 @@
+body {
+    background-color: #ccc;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.input-group-prepend {
+    width: 110px;
+} 
+
+#lb-pounds {
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+#lb-grams {
+    padding-top: 10px;
+    padding-right: 49px;
+}
+
+#lb-kilo {
+    padding-top: 10px;
+    padding-right: 20px;
+}
+
+#lb-ounces {
+    padding-top: 10px;
+    padding-right: 39px;
+}
+
+.input-group {
+    margin-bottom: 30px;
+}
+strong {
+    font-size: 20px;
+    color: #666;
+}
+
